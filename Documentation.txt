@@ -1,0 +1,26 @@
+Lab # 2: Online Advising Simulation using RPC & Message Queuing
+
+Language: Python 3.6
+Liabrary: xmlrpc
+
+How to run the Programs from Command Prompt-
+
+1. Running Message Queuing RPC server
+	a. Open the Command Prompt.
+	b. Go to the Project directory using cd command.
+	c. Type- "python MessageQueuingServer.py" and press enter.
+
+2. Running Advisor process
+	a. Open the Command Prompt.
+	b. Go to the Project directory using cd command.
+	c. Type- "python Advisor.py" and press enter.
+
+3. Running Norification process
+	a. Open the Command Prompt.
+	b. Go to the Project directory using cd command.
+	c. Type- "python Notification.py" and press enter.
+
+4. Running Student process
+	a. Open the Command Prompt.
+	b. Go to the Project directory using cd command.
+	c. Type- "python Student.py" and press enter.
